@@ -1,0 +1,47 @@
+[
+  {
+    "id": "amigable",
+    "nombre": "Amigable",
+    "color": "#22c55e"
+  },
+  {
+    "id": "profesional",
+    "nombre": "Profesional",
+    "color": "#3b82f6"
+  },
+  {
+    "id": "directo",
+    "nombre": "Directo",
+    "color": "#f59e0b"
+  },
+  {
+    "id": "consultivo",
+    "nombre": "Consultivo",
+    "color": "#8b5cf6"
+  },
+  {
+    "id": "urgencia",
+    "nombre": "Urgencia",
+    "color": "#ef4444"
+  },
+  {
+    "id": "descuento",
+    "nombre": "Descuento",
+    "color": "#ec4899"
+  },
+  {
+    "id": "seguimiento",
+    "nombre": "Seguimiento",
+    "color": "#14b8a6"
+  },
+  {
+    "id": "presentacion",
+    "nombre": "Presentación",
+    "color": "#f97316"
+  },
+  {
+    "id": "recordatorio",
+    "nombre": "Recordatorio",
+    "color": "#6366f1"
+  }
+]

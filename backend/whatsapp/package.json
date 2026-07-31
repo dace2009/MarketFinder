@@ -1,0 +1,11 @@
+{
+  "name": "marketfinder-whatsapp",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "puppeteer-core": "^23.0.0",
+    "qrcode": "^1.5.4",
+    "whatsapp-web.js": "^1.26.0",
+    "ws": "^8.18.0"
+  }
+}
